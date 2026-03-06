@@ -1,5 +1,6 @@
 "# Lab3-Domain-Driven-Design-DDD-Architecture-in-ASP" 
 
+[![Watch Demo](https://img.youtube.com/vi/SzOgTGAZPm0/maxresdefault.jpg)](https://youtu.be/SzOgTGAZPm0)
 
 **MSSV: 2324802010360
 Họ và Tên: Trần Nguyễn Quốc Thông**
